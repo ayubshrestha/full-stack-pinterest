@@ -2,6 +2,7 @@ import './app.css'
 
 const App = () => {
   return (
+    // fads
     <div className='app'>
       <LeftBar/>
       <div className='content'>
